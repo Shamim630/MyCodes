@@ -1,0 +1,1 @@
+    struct Node* head1 = NULL, *head2 = NULL;
